@@ -39,6 +39,8 @@ The app validates the user input to ensure that only numerical values are accept
 
 ## 🎯 Outcome
 A responsive and user-friendly **Temperature Converter Web App** that can convert temperatures between Celsius, Fahrenheit, and Kelvin instantly.
+![Screenshot 2025-10-28 184531](https://github.com/user-attachments/assets/db9c8a20-61b2-47a7-a903-ad7ce28b2e31)
+
 
 
 
